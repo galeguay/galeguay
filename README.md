@@ -5,3 +5,5 @@
 - something about me?... I know I lost a lot of time on my first years of studies, beacause i made bad decisions haha... but now i'm focused on my career with a lot of hungry¿? xD
 
 *(TUDAI) In spanish: Tecnicatura en Desarrollo de Aplicaciones Informáticas
+
+Sorry about my English, i'm working on that.
