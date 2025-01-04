@@ -11,3 +11,7 @@ Arquitecturas Web:
  - [JPA y JPQL](https://github.com/galeguay/arquitecturas-web/tree/main/EjercicioIntegrador2)
  - [REST y Spring Boot](https://github.com/galeguay/arquitecturas-web/tree/main/EjercicioIntegrador3)
  - [Microservicios](https://github.com/galeguay/arquitecturas-web/tree/main/EjercicioIntegradorMsvc)
+ 
+Interfaces:
+ - [UX/UI y Diseño de prototipo en Figma](https://www.figma.com/design/viqwnWkVKz5k2fwTNBmgNV/TP-N1?node-id=21-76&t=eriFDTXru4406jub-1)
+ - [Formas y eventos, Paralax, Animaciones KeyFrame](https://github.com/galeguay/interfaces_tpe) ([Deploy en Github Page](https://galeguay.github.io/interfaces_tpe/))
